@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **sistema-oficina-php** é um sistema desenvolvido para ajudar no gerenciamento da oficina mecânica, oferecendo recursos para registro de ordens de serviço, controle de clientes, veículos e serviços realizados. 
+O **sistema-oficina** é um sistema desenvolvido para ajudar no gerenciamento da oficina mecânica, oferecendo recursos para registro de ordens de serviço, controle de clientes, veículos e serviços realizados. 
 A aplicação conta com com filtros para intervalos de datas, ordenação por preços, datas, além das features comuns de um CRUD(Create, Read, Update & Delete) e muito mais.
 <br>
 Através de um dashboard para manter tudo organizado e dentro dos prazos!
@@ -41,11 +41,11 @@ Instale o [Composer](https://getcomposer.org/download/).
 ## 🚀 Como Executar o Projeto
 * Clone o repositório:
 ```
-git clone https://github.com/sandoelio/sistema-oficina-php.git
+git clone https://github.com/sandoelio/sistema-oficina.git
 ```
 * Entrar na pasta criada:
 ```
-cd sistema-oficina-php
+cd sistema-oficina
 ```
 * Instalar as dependências PHP:
 ```

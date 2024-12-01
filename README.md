@@ -69,4 +69,12 @@ npm install
 npm run dev
 ```
 ## Rodando a aplicação
+
 Depois de seguir os passos acima, basta clicar [aqui](http://localhost:3000/orcamento) para ver a aplicação🎆
+
+---
+
+# 📧 Contato
+* Autor: Sandoelio Silva
+* Email: sandoelio@hotmail.com
+* LinkedIn: [Sandoelio Silva](https://www.linkedin.com/in/sandoelio-silva/)
